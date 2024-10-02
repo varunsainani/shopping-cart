@@ -1,0 +1,28 @@
+
+[
+    {
+      "id": 1,
+      "name": "Smart Watch",
+      "price": 40.99,
+      "imgUrl": "/imgs/wedge1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Smart Watch",
+      "price": 119,
+      "imgUrl": "/imgs/wedge2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Watch",
+      "price": 20.05,
+      "imgUrl": "/imgs/wedge3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Computer",
+      "price": 14000,
+      "imgUrl": "/imgs/computer.jpg"
+    }
+  ]
+  
