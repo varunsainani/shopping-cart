@@ -2,13 +2,12 @@ import { Button, Card } from "react-bootstrap";
 import formatCurrency from "../utilities/formatCurrency";
 
 interface StoreItemProps {
-  id: number;
   name: string;
   price: number;
   imgUrl: string;
 }
 
-const StoreItem = ({ id, name, price, imgUrl }: StoreItemProps) => {
+const StoreItem = ({ name, price, imgUrl }: StoreItemProps) => {
   const quantity = 0;
   return (
     <Card className="h-100">
